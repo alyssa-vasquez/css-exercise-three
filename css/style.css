@@ -26,6 +26,21 @@ nav {
   width: 100%;
 }
 
+.restaurant-list h1{
+  font-size: 20px;
+  font-weight: bold;
+  line-height: normal;
+  margin-left: 5%;
+  padding: 10px 0px;
+}
+
+.restaurant-list h3{
+  font-size: 12px;
+  font-weight: 500;
+  line-height: 0em;
+  margin-left: 5%;
+}
+
 .arrow {
   float:right;
   width: 5%;
@@ -48,19 +63,4 @@ nav {
 .content {
   float:left;
   width: 70%;
-}
-
-h1{
-  font-size: 20px;
-  font-weight: bold;
-  line-height: normal;
-  margin-left: 5%;
-  padding: 10px 0px;
-}
-
-h3{
-  font-size: 12px;
-  font-weight: 500;
-  line-height: 0em;
-  margin-left: 5%;
 }
